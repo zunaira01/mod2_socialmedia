@@ -46,15 +46,7 @@ function Home(){
         <h3> Contact Us </h3>
         <p>2525 North High Ave, San Jose, CA 96593</p>
         <p>Need Help? E-mail Us at CONNECT@social.org or Call US at 889-569-8745</p>
-        {/* <h2> Menu </h2> */}
-        {/* <ul>
-            <li><a href="/Home">Dashboard</a></li>
-            <li><a href="/Photo Album">Photo Albums</a></li>
-            <li><a href="/Friend List">Friends List</a></li>
-            <li><a href="/Direct Messages">Messages</a></li>
-            <li><a href="/Settings">Settings</a></li>
-            </ul>
-         */}
+    
       </div>
     </div>
      </div>

@@ -10,9 +10,9 @@ function Header(props){
             <br></br>
             <button><Link to="/">Home</Link></button>
            
-        <button><Link to="/profile">myProfile</Link></button>
+        <button><Link to="/profile">Profile</Link></button>
      
-        <button><Link to="/profile">myFriends</Link></button>
+        <button><Link to="/album">PhotoAlbum</Link></button>
             </h3>
             <Nav/>
             </div>

@@ -52,9 +52,9 @@ body {
   top: 0;
   padding: 0;
   width: 100%;
-  /* background-image: url("https://i.pinimg.com/564x/c5/4e/e8/c54ee8fc47e33ddb50a9b769e9308f3f.jpg"); */
+  background-image: url("https://i.pinimg.com/564x/c5/4e/e8/c54ee8fc47e33ddb50a9b769e9308f3f.jpg");
 /* background-image: url('https://i.pinimg.com/1200x/30/1e/eb/301eeb763dab7d34c678fe51d937f710.jpg'); */
-background-image: url('https://www.pngitem.com/pimgs/m/511-5114971_floral-header-hd-png-download.png');
+/* background-image: url('https://www.pngitem.com/pimgs/m/511-5114971_floral-header-hd-png-download.png'); */
   background-repeat: repeat;
   filter: drop-shadow(2px 2px 3px black);
   background-size: 50%;

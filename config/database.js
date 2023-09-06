@@ -1,4 +1,6 @@
 const mongoose = require('mongoose');
+const COLLECTION = "SocialApp";
+// mongoose.connect(process.env.MONGODB_URI || config.connectionString);
 
 // mongoose.connect(
 //     process.env.MONGO_URI
@@ -18,12 +20,14 @@ mongoose.set('strictQuery', false)
 
 mongoose.connect(connectionString, {
 
-  useNewUrlParser: true,
-  useCreateIndex: true,
+  // useNewUrlParser: true,
+  // useCreateIndex: true,
   useUnifiedTopology: true
+  
 });
 
 
 
-//   `mongodb+srv://${process.env.MONGOUSERNAME}:${process.env.MONGOPASSWORD}@cluster0.l53ufn0.mongodb.net/cafeapp?retryWrites=true&w=majority`
-// , {
+
+
+
